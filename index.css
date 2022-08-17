@@ -1,0 +1,31 @@
+body{
+    background: blue;
+}
+header{
+    text-align: center;
+    color: aliceblue;
+}
+
+.container{    
+    background: white;
+    max-width: 500px;
+    height: 450px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgb(79, 157, 202);
+}
+
+ div{
+    text-align: center;
+    padding-top: 20px;
+ }
+img{
+    margin: 100px;
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    font: arial italic 15pt;
+    color: aliceblue;
+    
+}
