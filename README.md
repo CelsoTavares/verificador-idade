@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/109553661/189258185-8e3c1643-9b7c-45d8
 * ## Tecnologias
     #### HTML, CSS e JavaScript.
 * ## Links
-    #### [Projeto](https://celsotavares.github.io/QR-code-component/)
+    #### [Projeto](https://celsotavares.github.io/Verificador-idade/)
 * ## Autor
     #### *Celso Tavares*
    
