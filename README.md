@@ -1,4 +1,4 @@
-# Verificador Idade
+# Verificador de Idade
 * ## Sobre
     #### Verificador de idade com foto, desenvolvido no curso de javascript.
 https://user-images.githubusercontent.com/109553661/189258185-8e3c1643-9b7c-45d8-80a5-8adff4789bad.mp4
